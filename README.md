@@ -12,8 +12,8 @@
 
 - Серверная часть: Python
 - Базы данных: PostgreSQL
-- Внешние зависимости: 
-- UI: Telegram
+- Внешние зависимости: Football-Data.org API и ESPN API
+- UI: Telegram 
 
 ## Определение проблемы
 
